@@ -13,6 +13,16 @@
 
 ## Side Project
 
+- [We-Spot](https://github.com/YAPP-Github/WeSpot-Backend) 24.05 ~ ing
+    - Spring Boot, Kotlin, Redis, Mysql, Aws, Hexagonal Architecture (Clean Architecture)
+- [마피아 투게더](https://github.com/mafia-together) 24.05 ~ ing
+    - React, TypeScript, Emotion, React Query, Axios
+    - Spring Boot, Java, Redis, Mysql, Aws, Docker
+- [컨셉비](https://github.com/ConceptBe/conceptbe-backend) 23.12 ~ ing
+    - Spring Boot, Java, Mysql, Aws, Docker
+- [괜찮을지도](https://github.com/woowacourse-teams/2023-map-befine) 23.06 ~ 23.12
+    - Spring Boot, Java, Mysql, Aws, Docker
+
 ## Blog Post 📚
 
 <!-- BLOG-POST-LIST:START -->
