@@ -11,6 +11,9 @@
 - 카카오 Tech 인턴 API 플랫폼 FullStack 개발 (2024.01.03 ~ 2024.02.29)
 - 씨벤티지 Platform Development Backend 개발 (2024.08.19 ~ ing)
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Tech Stack
 
 <p align="center">
