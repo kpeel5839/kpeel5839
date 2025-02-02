@@ -13,7 +13,7 @@
 
 ## Side Project
 
-## 📚 Blog Post 📚
+## Blog Post 📚
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
