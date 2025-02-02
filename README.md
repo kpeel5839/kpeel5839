@@ -16,6 +16,11 @@
 ## Blog Post 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [E. No Palindromes &lpar;Codeforces Global Round 25&rpar;](https://velog.io/@kpeel5839/E.-No-Palindromes-Codeforces-Global-Round-25)
+- [E - Farm Game &lpar;CodeTON Round 8 Div. 1 + Div. 2&rpar;](https://velog.io/@kpeel5839/E-Farm-Game-CodeTON-Round-8-Div.-1-Div.-2)
+- [D. Learning to Paint &lpar;CodeTON Round 8 Div. 1 + Div. 2&rpar;](https://velog.io/@kpeel5839/D.-Learning-to-Paint-CodeTON-Round-8-Div.-1-Div.-2)
+- [E. Chain Reaction &lpar;Educational Codeforces Round 164 Div. 2&rpar;](https://velog.io/@kpeel5839/E.-Chain-Reaction-Educational-Codeforces-Round-164-Div.-2)
+- [3117. Minimum Sum of Values by Dividing Array](https://velog.io/@kpeel5839/3117.-Minimum-Sum-of-Values-by-Dividing-Array)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
