@@ -26,11 +26,11 @@
 ## Blog Post 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [글쓰기를 도와주는 디스코드 봇 만들기](https://velog.io/@kpeel5839/%EA%B8%80%EC%93%B0%EA%B8%B0%EB%A5%BC-%EB%8F%84%EC%99%80%EC%A3%BC%EB%8A%94-%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C-%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [E. No Palindromes &lpar;Codeforces Global Round 25&rpar;](https://velog.io/@kpeel5839/E.-No-Palindromes-Codeforces-Global-Round-25)
 - [E. Farm Game &lpar;CodeTON Round 8 Div. 1 + Div. 2&rpar;](https://velog.io/@kpeel5839/E-Farm-Game-CodeTON-Round-8-Div.-1-Div.-2)
 - [D. Learning to Paint &lpar;CodeTON Round 8 Div. 1 + Div. 2&rpar;](https://velog.io/@kpeel5839/D.-Learning-to-Paint-CodeTON-Round-8-Div.-1-Div.-2)
 - [E. Chain Reaction &lpar;Educational Codeforces Round 164 Div. 2&rpar;](https://velog.io/@kpeel5839/E.-Chain-Reaction-Educational-Codeforces-Round-164-Div.-2)
-- [3117. Minimum Sum of Values by Dividing Array](https://velog.io/@kpeel5839/3117.-Minimum-Sum-of-Values-by-Dividing-Array)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
