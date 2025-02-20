@@ -26,11 +26,11 @@
 ## Blog Post 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Role Hierarchy를 구현해보자!](https://velog.io/@kpeel5839/Role-Hierarchy%EB%A5%BC-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EC%9E%90)
 - [부하테스트 툴 정하기](https://velog.io/@kpeel5839/%EB%B6%80%ED%95%98%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%88%B4-%EC%A0%95%ED%95%98%EA%B8%B0)
 - [글쓰기를 도와주는 디스코드 봇 만들기](https://velog.io/@kpeel5839/%EA%B8%80%EC%93%B0%EA%B8%B0%EB%A5%BC-%EB%8F%84%EC%99%80%EC%A3%BC%EB%8A%94-%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C-%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [E. No Palindromes &lpar;Codeforces Global Round 25&rpar;](https://velog.io/@kpeel5839/E.-No-Palindromes-Codeforces-Global-Round-25)
 - [E. Farm Game &lpar;CodeTON Round 8 Div. 1 + Div. 2&rpar;](https://velog.io/@kpeel5839/E-Farm-Game-CodeTON-Round-8-Div.-1-Div.-2)
-- [D. Learning to Paint &lpar;CodeTON Round 8 Div. 1 + Div. 2&rpar;](https://velog.io/@kpeel5839/D.-Learning-to-Paint-CodeTON-Round-8-Div.-1-Div.-2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
