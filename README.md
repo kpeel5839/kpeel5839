@@ -26,11 +26,11 @@
 ## Blog Post 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Presigned URL을 통한 이미지 업로드를 진행해보자!](https://velog.io/@kpeel5839/Presigned-URL%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%85%EB%A1%9C%EB%93%9C%EB%A5%BC-%EC%A7%84%ED%96%89%ED%95%B4%EB%B3%B4%EC%9E%90)
 - [다운타임 없이 서버 배포하기! &lpar;BlueGreen&rpar;](https://velog.io/@kpeel5839/%EB%8B%A4%EC%9A%B4%ED%83%80%EC%9E%84-%EC%97%86%EC%9D%B4-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC-BlueGreen)
 - [Role Hierarchy를 구현해보자!](https://velog.io/@kpeel5839/Role-Hierarchy%EB%A5%BC-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EC%9E%90)
 - [부하테스트 툴 정하기](https://velog.io/@kpeel5839/%EB%B6%80%ED%95%98%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%88%B4-%EC%A0%95%ED%95%98%EA%B8%B0)
 - [글쓰기를 도와주는 디스코드 봇 만들기](https://velog.io/@kpeel5839/%EA%B8%80%EC%93%B0%EA%B8%B0%EB%A5%BC-%EB%8F%84%EC%99%80%EC%A3%BC%EB%8A%94-%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C-%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0)
-- [E. No Palindromes &lpar;Codeforces Global Round 25&rpar;](https://velog.io/@kpeel5839/E.-No-Palindromes-Codeforces-Global-Round-25)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
