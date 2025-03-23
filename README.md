@@ -26,11 +26,11 @@
 ## Blog Post 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [마커 클러스터링을 알고리즘을 활용해서 구현해보자](https://velog.io/@kpeel5839/%EB%A7%88%EC%BB%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81%EC%9D%84-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%B4%EC%84%9C-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EC%9E%90)
 - [2560. House Robber IV](https://velog.io/@kpeel5839/2560.-House-Robber-IV)
 - [Presigned URL을 통한 이미지 업로드를 진행해보자!](https://velog.io/@kpeel5839/Presigned-URL%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%85%EB%A1%9C%EB%93%9C%EB%A5%BC-%EC%A7%84%ED%96%89%ED%95%B4%EB%B3%B4%EC%9E%90)
 - [다운타임 없이 서버 배포하기! &lpar;BlueGreen&rpar;](https://velog.io/@kpeel5839/%EB%8B%A4%EC%9A%B4%ED%83%80%EC%9E%84-%EC%97%86%EC%9D%B4-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC-BlueGreen)
 - [Role Hierarchy를 구현해보자!](https://velog.io/@kpeel5839/Role-Hierarchy%EB%A5%BC-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EC%9E%90)
-- [부하테스트 툴 정하기](https://velog.io/@kpeel5839/%EB%B6%80%ED%95%98%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%88%B4-%EC%A0%95%ED%95%98%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
