@@ -26,11 +26,11 @@
 ## Blog Post 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [요즘 떠들석한 MCP 도대체 무엇일까?](https://velog.io/@kpeel5839/%EC%9A%94%EC%A6%98-%EB%96%A0%EB%93%A4%EC%84%9D%ED%95%9C-MCP-%EB%8F%84%EB%8C%80%EC%B2%B4-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 - [도메인 주도 개발 11장 &lpar;CQRS&rpar;](https://velog.io/@kpeel5839/%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C-11%EC%9E%A5-CQRS)
 - [도메인 주도 개발 10장 &lpar;이벤트&rpar;](https://velog.io/@kpeel5839/%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C-10%EC%9E%A5-%EC%9D%B4%EB%B2%A4%ED%8A%B8)
 - [도메인 주도 개발 8장](https://velog.io/@kpeel5839/%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C-8%EC%9E%A5)
 - [도메인 주도 개발 7장](https://velog.io/@kpeel5839/%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C-7%EC%9E%A5)
-- [도메인 주도 개발 6장](https://velog.io/@kpeel5839/DDD-6%EC%9E%A5)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
