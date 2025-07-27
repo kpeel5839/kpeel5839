@@ -26,11 +26,11 @@
 ## Blog Post 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Real MySQL 9-2장](https://velog.io/@kpeel5839/Real-MySQL-9-2)
 - [Real MySQL 9-1장](https://velog.io/@kpeel5839/Real-MySQL-9-1%EC%9E%A5)
 - [Real MySQL 8.0 8장](https://velog.io/@kpeel5839/Real-MySQL-8.0-8%EC%9E%A5)
 - [Real MySQL 8.0 4장](https://velog.io/@kpeel5839/Real-MySQL-8.0-4%EC%9E%A5)
 - [이벤트 기반 아키텍쳐](https://velog.io/@kpeel5839/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B8%B0%EB%B0%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
-- [요즘 떠들석한 MCP 도대체 무엇일까?](https://velog.io/@kpeel5839/%EC%9A%94%EC%A6%98-%EB%96%A0%EB%93%A4%EC%84%9D%ED%95%9C-MCP-%EB%8F%84%EB%8C%80%EC%B2%B4-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
