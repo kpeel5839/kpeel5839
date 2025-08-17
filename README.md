@@ -26,11 +26,11 @@
 ## Blog Post 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [책임 연쇄 패턴](https://velog.io/@kpeel5839/%EC%B1%85%EC%9E%84-%EC%97%B0%EC%87%84-%ED%8C%A8%ED%84%B4)
 - [성공과 실패를 결정하는 1%의 네트워크 원리 6장](https://velog.io/@kpeel5839/%EC%84%B1%EA%B3%B5%EA%B3%BC-%EC%8B%A4%ED%8C%A8%EB%A5%BC-%EA%B2%B0%EC%A0%95%ED%95%98%EB%8A%94-1%EC%9D%98-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9B%90%EB%A6%AC-6%EC%9E%A5)
 - [성공과 실패를 결정하는 1%의 네트워크 원리 5장](https://velog.io/@kpeel5839/%EC%84%B1%EA%B3%B5%EA%B3%BC-%EC%8B%A4%ED%8C%A8%EB%A5%BC-%EA%B2%B0%EC%A0%95%ED%95%98%EB%8A%94-1%EC%9D%98-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9B%90%EB%A6%AC-5%EC%9E%A5)
 - [Real MySQL 9-2장](https://velog.io/@kpeel5839/Real-MySQL-9-2)
 - [Real MySQL 9-1장](https://velog.io/@kpeel5839/Real-MySQL-9-1%EC%9E%A5)
-- [Real MySQL 8.0 8장](https://velog.io/@kpeel5839/Real-MySQL-8.0-8%EC%9E%A5)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
