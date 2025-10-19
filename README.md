@@ -26,11 +26,11 @@
 ## Blog Post 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [불사신 서버 만들기](https://velog.io/@kpeel5839/%EB%B6%88%EC%82%AC%EC%8B%A0-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [클린 아키텍처](https://velog.io/@kpeel5839/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 - [객체 지향이 무엇일까 다시 돌아보자](https://velog.io/@kpeel5839/%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5%EC%9D%B4-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-%EB%8B%A4%EC%8B%9C-%EB%8F%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 - [CQRS에 대하여](https://velog.io/@kpeel5839/CQRS%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
 - [이벤트 스토밍을 하는 방법](https://velog.io/@kpeel5839/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%8A%A4%ED%86%A0%EB%B0%8D%EC%9D%84-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
-- [Test를 잘짜기 위해서 알아야 할 것은 Test Fixture입니다.](https://velog.io/@kpeel5839/Test-Fixture%EB%A5%BC-%EC%95%BC%EB%AC%B4%EC%A7%80%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
