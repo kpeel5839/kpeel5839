@@ -26,11 +26,11 @@
 ## Blog Post 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [데이터가 자꾸 어디로만 가는 걸까? &lpar;트러블 슈팅&rpar;](https://velog.io/@kpeel5839/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EC%9E%90%EA%BE%B8-%EC%96%B4%EB%94%94%EB%A1%9C%EB%A7%8C-%EA%B0%80%EB%8A%94-%EA%B1%B8%EA%B9%8C-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85)
 - [파괴되지 않은 건물](https://velog.io/@kpeel5839/%ED%8C%8C%EA%B4%B4%EB%90%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EA%B1%B4%EB%AC%BC)
 - [카운트 다운](https://velog.io/@kpeel5839/%EC%B9%B4%EC%9A%B4%ED%8A%B8-%EB%8B%A4%EC%9A%B4)
 - [🧠 Count the Number of Substrings With Dominant Ones — 풀이 후기](https://velog.io/@kpeel5839/Count-the-Number-of-Substrings-With-Dominant-Ones-%ED%92%80%EC%9D%B4-%ED%9B%84%EA%B8%B0)
 - [2차원 동전 뒤집기](https://velog.io/@kpeel5839/2%EC%B0%A8%EC%9B%90-%EB%8F%99%EC%A0%84-%EB%92%A4%EC%A7%91%EA%B8%B0)
-- [불사신 서버 만들기](https://velog.io/@kpeel5839/%EB%B6%88%EC%82%AC%EC%8B%A0-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
