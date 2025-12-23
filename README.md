@@ -9,8 +9,8 @@
 - 성공회대학교 정보통신, 소프트웨어공학과 (2017.03 ~ 2023.02)
 - 우아한테크코스 5기 백엔드 (2023.02 ~ 2023.11)
 - 카카오 Tech 인턴 API 플랫폼 FullStack 개발 (2024.01.03 ~ 2024.02.29)
-- 씨벤티지 Platform Development Backend 개발 (2024.08.19 ~ ing)
-- KakaoBank Backend 개발 (2025.01.05 ~)
+- 씨벤티지 Platform Development Backend 개발 (2024.08.19 ~ 2025.12.31)
+- KakaoBank Backend 개발 (2025.01.05 ~ ing)
 
 ## Side Project
 
