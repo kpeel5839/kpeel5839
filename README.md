@@ -27,11 +27,11 @@
 ## Blog Post 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [가족만 쓸 수 있는 서비스를 만들어보자](https://velog.io/@kpeel5839/%EA%B0%80%EC%A1%B1%EB%A7%8C-%EC%93%B8-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90)
 - [모듈러 곱셈 역원](https://velog.io/@kpeel5839/%EB%AA%A8%EB%93%88%EB%9F%AC-%EA%B3%B1%EC%85%88-%EC%97%AD%EC%9B%90)
 - [BOJ 2662 - 기업투자](https://velog.io/@kpeel5839/BOJ-2662-%EA%B8%B0%EC%97%85%ED%88%AC%EC%9E%90)
 - [나만의 Chrome Extension 만들기](https://velog.io/@kpeel5839/%EB%82%98%EB%A7%8C%EC%9D%98-Chrome-Extension-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [🧭 BOJ 1708 - 볼록 껍질 &lpar;Graham Scan&rpar;](https://velog.io/@kpeel5839/BOJ-1708-%EB%B3%BC%EB%A1%9D-%EA%BB%8D%EC%A7%88-Graham-Scan)
-- [방 번호](https://velog.io/@kpeel5839/%EB%B0%A9-%EB%B2%88%ED%98%B8)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
