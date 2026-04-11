@@ -27,11 +27,11 @@
 ## Blog Post 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 11402 - 이항 계수 4 풀이 &lpar;뤼카의 정리&rpar;](https://velog.io/@kpeel5839/BOJ-11402-%EC%9D%B4%ED%95%AD-%EA%B3%84%EC%88%98-4-%ED%92%80%EC%9D%B4-%EB%A4%BC%EC%B9%B4%EC%9D%98-%EC%A0%95%EB%A6%AC)
 - [페르마 소정리](https://velog.io/@kpeel5839/%ED%8E%98%EB%A5%B4%EB%A7%88-%EC%86%8C%EC%A0%95%EB%A6%AC)
 - [가족만 쓸 수 있는 서비스를 만들어보자](https://velog.io/@kpeel5839/%EA%B0%80%EC%A1%B1%EB%A7%8C-%EC%93%B8-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90)
 - [모듈러 곱셈 역원](https://velog.io/@kpeel5839/%EB%AA%A8%EB%93%88%EB%9F%AC-%EA%B3%B1%EC%85%88-%EC%97%AD%EC%9B%90)
 - [BOJ 2662 - 기업투자](https://velog.io/@kpeel5839/BOJ-2662-%EA%B8%B0%EC%97%85%ED%88%AC%EC%9E%90)
-- [나만의 Chrome Extension 만들기](https://velog.io/@kpeel5839/%EB%82%98%EB%A7%8C%EC%9D%98-Chrome-Extension-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
