@@ -27,11 +27,11 @@
 ## Blog Post 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [OmOCon 참가 후기 — 선두에 선 사람들](https://velog.io/@kpeel5839/OmOCon-%EC%B0%B8%EA%B0%80-%ED%9B%84%EA%B8%B0-%EC%84%A0%EB%91%90%EC%97%90-%EC%84%A0-%EC%82%AC%EB%9E%8C%EB%93%A4)
 - [Spring 트랜잭션 전파&lpar;Propagation&rpar;를 제대로 이해해보자](https://velog.io/@kpeel5839/Spring-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%A0%84%ED%8C%8CPropagation%EB%A5%BC-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%B4%EB%B3%B4%EC%9E%90)
 - [BOJ 11402 - 이항 계수 4 풀이 &lpar;뤼카의 정리&rpar;](https://velog.io/@kpeel5839/BOJ-11402-%EC%9D%B4%ED%95%AD-%EA%B3%84%EC%88%98-4-%ED%92%80%EC%9D%B4-%EB%A4%BC%EC%B9%B4%EC%9D%98-%EC%A0%95%EB%A6%AC)
 - [페르마 소정리](https://velog.io/@kpeel5839/%ED%8E%98%EB%A5%B4%EB%A7%88-%EC%86%8C%EC%A0%95%EB%A6%AC)
 - [가족만 쓸 수 있는 서비스를 만들어보자](https://velog.io/@kpeel5839/%EA%B0%80%EC%A1%B1%EB%A7%8C-%EC%93%B8-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90)
-- [모듈러 곱셈 역원](https://velog.io/@kpeel5839/%EB%AA%A8%EB%93%88%EB%9F%AC-%EA%B3%B1%EC%85%88-%EC%97%AD%EC%9B%90)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
