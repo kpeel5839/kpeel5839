@@ -27,11 +27,11 @@
 ## Blog Post 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [문제를 해석하며 성장한 백엔드 개발자의 사고법](https://velog.io/@kpeel5839/%EB%AC%B8%EC%A0%9C%EB%A5%BC-%ED%95%B4%EC%84%9D%ED%95%98%EB%A9%B0-%EC%84%B1%EC%9E%A5%ED%95%9C-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%82%AC%EA%B3%A0%EB%B2%95)
 - [일을 사랑하는 방법](https://velog.io/@kpeel5839/%EC%9D%BC%EC%9D%84-%EC%82%AC%EB%9E%91%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 - [인메모리 rate limiter 만들기](https://velog.io/@kpeel5839/%EC%9D%B8%EB%A9%94%EB%AA%A8%EB%A6%AC-rate-limiter-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [OmOCon 참가 후기 — 선두에 선 사람들](https://velog.io/@kpeel5839/OmOCon-%EC%B0%B8%EA%B0%80-%ED%9B%84%EA%B8%B0-%EC%84%A0%EB%91%90%EC%97%90-%EC%84%A0-%EC%82%AC%EB%9E%8C%EB%93%A4)
 - [Spring 트랜잭션 전파&lpar;Propagation&rpar;를 제대로 이해해보자](https://velog.io/@kpeel5839/Spring-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%A0%84%ED%8C%8CPropagation%EB%A5%BC-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%B4%EB%B3%B4%EC%9E%90)
-- [BOJ 11402 - 이항 계수 4 풀이 &lpar;뤼카의 정리&rpar;](https://velog.io/@kpeel5839/BOJ-11402-%EC%9D%B4%ED%95%AD-%EA%B3%84%EC%88%98-4-%ED%92%80%EC%9D%B4-%EB%A4%BC%EC%B9%B4%EC%9D%98-%EC%A0%95%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
