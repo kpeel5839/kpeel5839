@@ -27,11 +27,11 @@
 ## Blog Post 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [지성은 높아질 수 있을까?](https://velog.io/@kpeel5839/%EC%A7%80%EC%84%B1%EC%9D%80-%EB%86%92%EC%95%84%EC%A7%88-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-huf18n8m)
 - [좋은 개발자는 기능을 만드는 사람이 아니라, 흐름을 설계하는 사람](https://velog.io/@kpeel5839/%EC%A2%8B%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%ED%9D%90%EB%A6%84%EC%9D%84-%EC%84%A4%EA%B3%84%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C)
 - [문제를 해석하며 성장한 백엔드 개발자의 사고법](https://velog.io/@kpeel5839/%EB%AC%B8%EC%A0%9C%EB%A5%BC-%ED%95%B4%EC%84%9D%ED%95%98%EB%A9%B0-%EC%84%B1%EC%9E%A5%ED%95%9C-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%82%AC%EA%B3%A0%EB%B2%95)
 - [일을 사랑하는 방법](https://velog.io/@kpeel5839/%EC%9D%BC%EC%9D%84-%EC%82%AC%EB%9E%91%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 - [인메모리 rate limiter 만들기](https://velog.io/@kpeel5839/%EC%9D%B8%EB%A9%94%EB%AA%A8%EB%A6%AC-rate-limiter-%EB%A7%8C%EB%93%A4%EA%B8%B0)
-- [OmOCon 참가 후기 — 선두에 선 사람들](https://velog.io/@kpeel5839/OmOCon-%EC%B0%B8%EA%B0%80-%ED%9B%84%EA%B8%B0-%EC%84%A0%EB%91%90%EC%97%90-%EC%84%A0-%EC%82%AC%EB%9E%8C%EB%93%A4)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
