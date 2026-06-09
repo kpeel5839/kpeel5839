@@ -54,10 +54,6 @@
 ## Algorithm
 [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=kpeel5839&height=100)](https://solved.ac/profile/kpeel5839)
 
-## Contact
-
-[![](https://camo.githubusercontent.com/2f72ba2491aa518a94b56d77b0b1b667b7d8c43fe20f4bd502af45ab9704d35f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61696c2d6666666666663f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d303030303030)](mailto:yshert0605@gmail.com)
-
 ## Information
 
 ![kpeel5839's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpeel5839&&show_icons=true&theme=vue&height=100)
