@@ -53,7 +53,6 @@
 
 ## Algorithm
 [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=kpeel5839&height=100)](https://solved.ac/profile/kpeel5839)
-[![](https://leetcard.jacoblin.cool/suheelove?theme=dark&font=Smooch%20Sans&ext=heatmap)](https://leetcode.com/suheelove/)
 
 ## Contact
 
