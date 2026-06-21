@@ -27,11 +27,11 @@
 ## Blog Post 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [정답을 그냥 보는 것과 이해하는 것](https://velog.io/@kpeel5839/%EC%A0%95%EB%8B%B5%EC%9D%84-%EA%B7%B8%EB%83%A5-%EB%B3%B4%EB%8A%94-%EA%B2%83%EA%B3%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EA%B2%83)
 - [3093. Longest Common Suffix Queries](https://velog.io/@kpeel5839/3093.-Longest-Common-Suffix-Queries)
 - [딥워크](https://velog.io/@kpeel5839/%EB%94%A5%EC%9B%8C%ED%81%AC)
 - [지성은 높아질 수 있을까?](https://velog.io/@kpeel5839/%EC%A7%80%EC%84%B1%EC%9D%80-%EB%86%92%EC%95%84%EC%A7%88-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-huf18n8m)
 - [좋은 개발자는 기능을 만드는 사람이 아니라, 흐름을 설계하는 사람](https://velog.io/@kpeel5839/%EC%A2%8B%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%ED%9D%90%EB%A6%84%EC%9D%84-%EC%84%A4%EA%B3%84%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C)
-- [문제를 해석하며 성장한 백엔드 개발자의 사고법](https://velog.io/@kpeel5839/%EB%AC%B8%EC%A0%9C%EB%A5%BC-%ED%95%B4%EC%84%9D%ED%95%98%EB%A9%B0-%EC%84%B1%EC%9E%A5%ED%95%9C-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%82%AC%EA%B3%A0%EB%B2%95)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
